@@ -1,0 +1,2 @@
+# FrontEnd-Firebase.AuthGoogle-Administrator_ControlPanel
+FrontEnd-Firebase.AuthGoogle-Administrator_ControlPanel
